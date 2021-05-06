@@ -44,7 +44,6 @@ Hi, I'm Henrico Aldy Ferdian. I live in Denpasar, Bali, Indonesia.
 
 ### ✉ Let's connect!
 
-<a href="https://instagram.com/henricoaldyferdian" target="blank"><img align="left" alt="Jhonarendra Instagram" width="22" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" /></a>
 <a href="https://id.linkedin.com/in/ricoferdian" target="blank"><img align="left" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="22" /></a>
 
 
