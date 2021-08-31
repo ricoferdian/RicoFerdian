@@ -23,7 +23,7 @@ Hi, I'm Henrico Aldy Ferdian. I live in Denpasar, Bali, Indonesia.
   - 🔭 I’m currently working as a Software Developer
   - ⚡ Excited to create app that impactful to other
   - 🌱 I’m currently learning about Deep Learning and React
-  - 💕 Using Laravel, MySQL, JQuery, Python, and JavaScript every day
+  - 💕 Using Laravel, MySQL, JQuery, Python, Flutter, and JavaScript every day
   - 📫 You can reach me at <a href="mailto:henricoaldyferdian@hotmail.com">henricoaldyferdian@hotmail.com</a>
 
 
