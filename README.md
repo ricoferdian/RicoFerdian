@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello World 👋
+### Hi, there 👋
 
 <img src="https://komarev.com/ghpvc/?username=RicoFerdian" alt="RicoFerdian" /> <img src="https://img.shields.io/github/followers/RicoFerdian?label=follow&style=social" />
 
